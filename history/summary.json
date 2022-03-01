@@ -22,19 +22,19 @@
     "url": "https://beta.eldorado.io",
     "icon": "https://favicons.githubusercontent.com/beta.eldorado.io",
     "slug": "el-dorado-beta",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 501,
-    "timeDay": 509,
-    "timeWeek": 551,
-    "timeMonth": 501,
-    "timeYear": 501,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 499,
+    "timeDay": 488,
+    "timeWeek": 540,
+    "timeMonth": 499,
+    "timeYear": 499,
     "dailyMinutesDown": {
-      "2022-03-01": 0
+      "2022-03-01": 13
     }
   }
 ]
