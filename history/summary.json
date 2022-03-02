@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 79,
-    "timeDay": 103,
-    "timeWeek": 78,
-    "timeMonth": 79,
-    "timeYear": 79,
+    "time": 78,
+    "timeDay": 49,
+    "timeWeek": 77,
+    "timeMonth": 78,
+    "timeYear": 78,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/beta.eldorado.io",
     "slug": "el-dorado-beta",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 499,
-    "timeDay": 488,
-    "timeWeek": 540,
-    "timeMonth": 499,
-    "timeYear": 499,
-    "dailyMinutesDown": {
-      "2022-03-01": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 503,
+    "timeDay": 417,
+    "timeWeek": 556,
+    "timeMonth": 503,
+    "timeYear": 503,
+    "dailyMinutesDown": {}
   }
 ]
