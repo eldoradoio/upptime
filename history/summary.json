@@ -6,15 +6,15 @@
     "slug": "el-dorado-landing-page",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.59%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
-    "time": 85,
-    "timeDay": 37,
-    "timeWeek": 74,
-    "timeMonth": 88,
-    "timeYear": 85,
+    "time": 87,
+    "timeDay": 224,
+    "timeWeek": 87,
+    "timeMonth": 91,
+    "timeYear": 87,
     "dailyMinutesDown": {
       "2022-05-13": 35
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 494,
-    "timeDay": 638,
-    "timeWeek": 505,
-    "timeMonth": 498,
+    "timeDay": 439,
+    "timeWeek": 507,
+    "timeMonth": 494,
     "timeYear": 494,
     "dailyMinutesDown": {}
   }
