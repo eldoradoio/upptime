@@ -7,6 +7,12 @@ sites:
     url: https://eldorado.io/
   - name: El Dorado - Beta
     url: https://beta.eldorado.io
+  - name: El Dorado - APP
+    url: https://app.eldorado.io
+  - name: El Dorado - API Doc
+    url: https://api.eldorado.io
+  - name: El Dorado - API Health
+    url: https://api.eldorado.io/api/clock
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
