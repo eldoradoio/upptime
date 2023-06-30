@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 103,
-    "timeDay": 180,
-    "timeWeek": 149,
-    "timeMonth": 172,
+    "timeDay": 80,
+    "timeWeek": 141,
+    "timeMonth": 171,
     "timeYear": 108,
     "dailyMinutesDown": {
       "2023-03-22": 98,
@@ -30,15 +30,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 457,
-    "timeDay": 448,
-    "timeWeek": 478,
-    "timeMonth": 462,
+    "timeDay": 501,
+    "timeWeek": 485,
+    "timeMonth": 464,
     "timeYear": 446,
-    "dailyMinutesDown": {
-      "2022-06-30": 105
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "El Dorado - APP",
@@ -51,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 463,
-    "timeDay": 427,
-    "timeWeek": 454,
-    "timeMonth": 463,
-    "timeYear": 463,
+    "time": 466,
+    "timeDay": 498,
+    "timeWeek": 441,
+    "timeMonth": 466,
+    "timeYear": 466,
     "dailyMinutesDown": {}
   },
   {
@@ -69,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 535,
-    "timeDay": 483,
-    "timeWeek": 528,
-    "timeMonth": 535,
-    "timeYear": 535,
+    "time": 541,
+    "timeDay": 612,
+    "timeWeek": 561,
+    "timeMonth": 541,
+    "timeYear": 541,
     "dailyMinutesDown": {}
   },
   {
@@ -87,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 694,
-    "timeDay": 249,
-    "timeWeek": 491,
-    "timeMonth": 694,
-    "timeYear": 694,
+    "time": 738,
+    "timeDay": 1260,
+    "timeWeek": 637,
+    "timeMonth": 738,
+    "timeYear": 738,
     "dailyMinutesDown": {}
   }
 ]
