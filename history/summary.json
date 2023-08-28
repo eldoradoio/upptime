@@ -25,18 +25,20 @@
     "url": "https://beta.eldorado.io",
     "icon": "https://icons.duckduckgo.com/ip3/beta.eldorado.io.ico",
     "slug": "el-dorado-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 450,
-    "timeDay": 405,
-    "timeWeek": 480,
-    "timeMonth": 439,
-    "timeYear": 450,
-    "dailyMinutesDown": {}
+    "time": 449,
+    "timeDay": 230,
+    "timeWeek": 427,
+    "timeMonth": 427,
+    "timeYear": 449,
+    "dailyMinutesDown": {
+      "2023-08-28": 0
+    }
   },
   {
     "name": "El Dorado - APP",
