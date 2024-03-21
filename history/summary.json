@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 124,
-    "timeDay": 140,
-    "timeWeek": 161,
+    "timeDay": 143,
+    "timeWeek": 155,
     "timeMonth": 146,
-    "timeYear": 135,
-    "dailyMinutesDown": {
-      "2023-03-22": 98
-    }
+    "timeYear": 136,
+    "dailyMinutesDown": {}
   },
   {
     "name": "El Dorado - Beta",
@@ -30,9 +28,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 453,
-    "timeDay": 438,
-    "timeWeek": 420,
+    "time": 452,
+    "timeDay": 409,
+    "timeWeek": 421,
     "timeMonth": 452,
     "timeYear": 449,
     "dailyMinutesDown": {
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 417,
-    "timeDay": 290,
-    "timeWeek": 428,
-    "timeMonth": 419,
-    "timeYear": 417,
+    "time": 418,
+    "timeDay": 552,
+    "timeWeek": 448,
+    "timeMonth": 425,
+    "timeYear": 418,
     "dailyMinutesDown": {}
   },
   {
@@ -69,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 509,
-    "timeDay": 427,
-    "timeWeek": 523,
-    "timeMonth": 538,
+    "timeDay": 563,
+    "timeWeek": 524,
+    "timeMonth": 545,
     "timeYear": 509,
     "dailyMinutesDown": {}
   },
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 984,
-    "timeDay": 894,
-    "timeWeek": 1124,
-    "timeMonth": 1031,
-    "timeYear": 984,
+    "time": 985,
+    "timeDay": 1390,
+    "timeWeek": 1110,
+    "timeMonth": 1046,
+    "timeYear": 985,
     "dailyMinutesDown": {}
   }
 ]
