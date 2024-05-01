@@ -78,17 +78,19 @@
     "url": "https://api.eldorado.io/api/clock",
     "icon": "https://icons.duckduckgo.com/ip3/api.eldorado.io.ico",
     "slug": "el-dorado-api-health",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 989,
-    "timeDay": 1176,
-    "timeWeek": 1089,
-    "timeMonth": 1018,
-    "timeYear": 989,
-    "dailyMinutesDown": {}
+    "time": 986,
+    "timeDay": 629,
+    "timeWeek": 963,
+    "timeMonth": 988,
+    "timeYear": 986,
+    "dailyMinutesDown": {
+      "2024-05-01": 0
+    }
   }
 ]
