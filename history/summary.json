@@ -22,9 +22,9 @@
     "url": "https://app.eldorado.io",
     "icon": "https://icons.duckduckgo.com/ip3/app.eldorado.io.ico",
     "slug": "el-dorado-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 428,
     "timeMonth": 434,
     "timeYear": 420,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-23": 0
+    }
   }
 ]
